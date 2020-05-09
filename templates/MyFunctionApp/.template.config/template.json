@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Matt Sloan",
+  "classifications": [ "Azure Functions", "Serverless" ], 
+  "name": "Azure Functions Project With Tests",
+  "identity": "Azure-Functions-Project-With-Tests",         
+  "shortName": "functests",
+  "tags": {
+    "language": "C#",
+    "type":"project"
+  },
+  "sourceName": "MyFunctionApp"
+}
